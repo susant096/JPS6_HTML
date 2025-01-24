@@ -1,0 +1,18 @@
+p {
+  color: tomato;
+}
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: white;
+  background-color: rgba(0, 100, 50, 0.6);
+}
+h2 {
+  color: #ff0000;
+}
+table, td,th {
+    border: solid 1px;
+    border-collapse: collapse;
+    border-color: blue;
+}
